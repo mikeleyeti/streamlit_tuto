@@ -4,9 +4,9 @@ Application Word2Vec - Page d'accueil
 
 import streamlit as st
 
-st.set_page_config(page_title="Word2Vec App", page_icon="🔤", layout="wide")
+st.set_page_config(page_title="Portfolio Data", page_icon="💼", layout="wide")
 
-st.title("🏖️BAC A SABLE🏖️")
+st.title("📊 Portfolio Data")
 
 st.markdown(
     """
