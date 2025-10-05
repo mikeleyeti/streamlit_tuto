@@ -63,7 +63,6 @@ pyarrow==21.0.0
 pycodestyle==2.14.0
 pydeck==0.9.1
 Pygments==2.19.2
-python-dateutil==2.9.0.post0
 pytokens==0.1.10
 pytz==2025.2
 pywin32==311
