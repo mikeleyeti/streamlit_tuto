@@ -64,7 +64,6 @@ pycodestyle==2.14.0
 pydeck==0.9.1
 Pygments==2.19.2
 pytokens==0.1.10
-pytz==2025.2
 pywin32==311
 pyzmq==27.1.0
 referencing==0.36.2
