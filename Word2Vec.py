@@ -53,7 +53,10 @@ def find_closest(word_index, vectors, number_closest):
 
 def compare(index_word1, index_word2, index_word3, vectors, number_closest):
     list1 = []
-    query_vector = vectors[index_word1] - vectors[index_word2] + vectors[index_word3]
+    vec1 = vectors[index_word1]
+    vec2 = vectors[index_word2]
+    vec3 = vectors[index_word3]
+    query_vector = vec1 - vec2 + vec3
     normalizer = Normalizer()
     query_vector = normalizer.fit_transform([query_vector], "l2")
     query_vector = query_vector[0]
