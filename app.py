@@ -20,6 +20,7 @@ Cette application regroupe différents petits projets de Data-Visualisation et D
 
 - **Word2Vec** : Explore les similarités entre mots et réalise des analogies à partir d'un DataSet 'cinema'
 - **Titanic** : Explore les données du mythique DataSet du Titanic
+- **Movies** : Explore les données de [The Movie Database (TMDB)](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
 
 """
 )
