@@ -62,8 +62,6 @@ pure_eval==0.2.3
 pyarrow==21.0.0
 pycodestyle==2.14.0
 pydeck==0.9.1
-Pygments==2.19.2
-pywin32==311
 pyzmq==27.1.0
 referencing==0.36.2
 regex==2025.9.18
