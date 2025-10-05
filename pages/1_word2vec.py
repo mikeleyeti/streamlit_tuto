@@ -11,6 +11,21 @@ from calculs_word2vec import (
 )
 
 st.set_page_config(page_title="Word2Vec", page_icon="📊", layout="wide")
+st.markdown(
+    """
+# 🚀 Comment ça marche ?
+
+Le modèle Word2Vec transforme les mots en vecteurs numériques qui capturent leur sens.
+Les mots similaires sont proches dans l'espace vectoriel.
+
+## 💡 Exemples d'analogies
+
+- roi - homme + femme = reine
+- Paris - France + Italie = Rome
+- grand - petit + froid = chaud
+---
+"""
+)
 
 
 # Chargement des données au démarrage
